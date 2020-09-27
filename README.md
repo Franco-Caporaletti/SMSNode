@@ -26,3 +26,6 @@ npm npm run dev (to execute with nodemon)
 * TWILIO_AUTH_TOKEN
 * PHONE_NUMBER
 * PORT (optional)
+
+# Preview
+![SMSNode](https://user-images.githubusercontent.com/63564492/94378005-2f48f080-00fc-11eb-8a71-1486586df8c3.png)
