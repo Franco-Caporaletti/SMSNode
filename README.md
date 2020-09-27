@@ -1,5 +1,5 @@
 # Node SMS APP with Twilio
-this is an simple example to send and recive SMS using Node, Twilio, Mongodb, and Socket.io
+SMSNode es un proyecto que realice para dar foco en NodeJS utilizando Twilio, Socket.io y Mongodb. En el mismo proyecto se puede realizar el envió y la recepción de mensajes SMS
 ![](./SMSnode.png)
 
 # Required Software
